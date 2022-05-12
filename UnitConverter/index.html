@@ -1,0 +1,30 @@
+<html>
+    <head>
+        <link rel="stylesheet" href="index.css">
+    </head>
+    <body>
+        <div class ="main">
+            <text class="header">Metric/Imperial Unit Conversion</text>
+            <input class ="numbertoconvert" type="text" placeholder="0" id="input" oninput="calculate()">
+         
+            
+        </div>
+        <div class="results">
+            <div class ="resultsMeter">
+                <text class="meterTxt">Length (Meter/Feet)</text>
+                <text class="meterResults" id="length"></text>
+            </div>
+            <div class ="resultsLiters">
+                <text class="literTxt">Volume (Liters/Gallons)</text>
+                <text class="literResults" id ="volume"></text>
+            </div>
+                
+            <div class ="resultsKilogram">
+                <text class="kgTxt">Mass (Kilograms/Pounds)</text>
+                <text class="kgResults" id ="mass"></text>
+            </div>    
+        </div>
+        
+        <script src="index.js"></script>
+    </body>
+</html>

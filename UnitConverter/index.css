@@ -1,0 +1,207 @@
+html, body {
+    height: 550px;
+    width: 550px;
+    left: 89px;
+    top: 83px;
+    border-radius: 0px;
+    
+    
+    }
+    .header{
+    position: relative;
+    width: 448.4px;
+    height: 38px;
+    left: 51px;
+    top: 53px;
+    
+    font-family:Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 22px;
+    line-height: 38px;
+    /* identical to box height, or 173% */
+    
+    text-align: center;
+    letter-spacing: -0.05em;
+    
+    color: #FFFFFF;
+    
+    
+    }
+    .numbertoconvert{
+        
+    
+    position: absolute;
+    width: 200px;
+    height: 51.23px;
+    left: 169px;
+    top: 155px;
+    border-radius: 200px;
+    border-color: blueviolet;
+    
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 50px;
+    line-height: 24px;
+    /* or 25% */
+    
+    text-align: center;
+    
+    color:#585DFE;
+        
+    }
+    .resultsMeters{
+    position: absolute;
+    width: 346px;
+    height: 55px;
+    left: 102px;
+    top: 297px;
+    
+    }
+    .meterTxt{
+    position: absolute;
+    width: 346px;
+    height: 25px;
+    left: 102px;
+    top: 297px;
+    
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 20px;
+    /* or 143% */
+    
+    text-align: center;
+    
+    color: #1A1921;
+    }
+    .meterResults{
+        
+    position: absolute;
+    width: 346px;
+    height: 25px;
+    left: 102px;
+    top: 327px;
+    
+    /* text-sm/leading-5/font-normal */
+    
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    /* or 143% */
+    
+    text-align: center;
+    
+    color: #4E4E4E;
+    
+    }
+    
+    
+    
+    .resultsLiters{
+    width: 346px;
+    height: 55px;
+    left: 102px;
+    top: 379px;
+    }
+    
+    .literTxt{
+    position: absolute;
+    width: 346px;
+    height: 25px;
+    left: 102px;
+    top: 379px;
+    
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 20px;
+    /* or 143% */
+    
+    text-align: center;
+    
+    color: #1A1921;
+    }
+    
+    .literResults{
+    position: absolute;
+    width: 346px;
+    height: 25px;
+    left: 102px;
+    top: 409px;
+    
+    /* text-sm/leading-5/font-normal */
+    
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    /* or 143% */
+    
+    text-align: center;
+    
+    color: #4E4E4E;
+        
+    }
+    
+    .kgTxt{
+    position: absolute;
+    width: 346px;
+    height: 25px;
+    left: 102px;
+    top: 461px;
+    
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 20px;
+    /* or 143% */
+    
+    text-align: center;
+    
+    color: #1A1921;
+    }
+    
+    .kgResults{
+    position: absolute;
+    width: 346px;
+    height: 21px;
+    left: 102px;
+    top: 491px;
+    
+    /* text-sm/leading-5/font-normal */
+    
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    /* or 143% */
+    
+    text-align: center;
+    
+    color: #4E4E4E;
+    }
+    
+    
+    
+    .main{
+        
+    
+    position: absolute;
+    width: 550px;
+    height: 260px;
+    left: 0px;
+    top: 0px;
+    
+    background: linear-gradient(246.26deg, #585DFE 0%, #FB3796 100%);
+    }
+    
+    
